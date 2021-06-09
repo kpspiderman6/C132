@@ -1,0 +1,22 @@
+body{
+    background-image: url("background.jpg");
+    text-align: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    text-align: center;
+    border: burlywood solid 5px;
+    border-radius: 4px;
+}
+
